@@ -1,0 +1,25 @@
+html,body{
+    background-color: rgb(243, 243, 243);
+}
+
+.header1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.header2 > img{
+    height: 120px;
+    width: 600px;
+}
+
+.header3{
+    margin-top: 15px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.header4{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

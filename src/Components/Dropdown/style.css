@@ -1,0 +1,12 @@
+.country1{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.country1 > select{
+    border: none;
+    border-bottom: 1px solid grey;
+    background-color: rgb(243, 243, 243);
+    width: 300px;
+    font-size: 24px;
+}
